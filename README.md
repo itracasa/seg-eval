@@ -2,6 +2,10 @@
 
 SegEval is a Python library that provides tools for evaluating semantic segmentation models.
 
+```
+This library is associated to the paper Guidelines to Compare Semantic Segmentation Maps at Different Resolutions and will be releashed after acceptance.
+```
+
 ## What's inside
 
 * Pixel-wise semantic segmentation metrics.
@@ -9,7 +13,5 @@ SegEval is a Python library that provides tools for evaluating semantic segmenta
 * Functions to qualitatively analyze segmentation results and to generate figures for academic papers. 
 
 # Installation
-
-`pip install segeval`
 
 # Citation
