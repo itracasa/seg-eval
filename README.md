@@ -14,11 +14,15 @@ This library is associated to the paper **Guidelines to Compare Semantic Segment
 
 # Installation
 
+Since the package has not been converted into a pip installable package yet, you can install it by cloning this repository.
+
+`git clone https://github.com/itracasa/seg-eval.git`
+
 # Example notebooks
 
-* [1. `Metrics` module: Pixel-wise semantic segmentation metrics.]()
-* [2. `Region Metrics` module: Utilities to generate evaluation regions and to analyze segmentation results within them.]()
+* [1. `metrics` module: Pixel-wise semantic segmentation metrics.](https://github.com/itracasa/seg-eval/blob/main/example_notebooks/1.%20Metrics%20module.ipynb)
+* [2. `region_metrics` module: Utilities to generate evaluation regions and to analyze segmentation results within them.](https://github.com/itracasa/seg-eval/blob/main/example_notebooks/2.%20Region%20Metrics%20module.ipynb)
 
-The `Visualization` module is used in both of the notebooks.
+The `visualization` module is used in both of the notebooks.
 
 # Citation
